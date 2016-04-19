@@ -1,8 +1,8 @@
-Day,Toast,Kreas,Milk with muesli,Vegan,Beer
-Monday,2,1,2,0,0
-Tuesday,2,2,2,0,0
-Wednesday,1,2,0,1,0
-Thursday,1,1,1,0,0
-Friday,3,1,2,0,7
-Saturday,4,0,1,2,12
-Sunday,2,1,1,0,1
+Day,Toast,Meat,Milk with muesli,Vegan,Beer,Cake,DTU Kanteen
+Monday,2,1,2,0,0,4,1
+Tuesday,2,2,2,0,0,3,1
+Wednesday,1,2,0,1,0,2,1
+Thursday,1,1,1,0,0,3,1
+Friday,3,1,2,0,7,2,1
+Saturday,4,0,1,2,12,1,0
+Sunday,2,1,1,0,1,5,0
